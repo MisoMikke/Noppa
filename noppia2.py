@@ -49,8 +49,6 @@ while True:
     heitä_noppaa()
     uusi_heitto = input("heitetäänkö uudelleen? kyllä, ei? :")
     
-
-
     if uusi_heitto != "kyllä":
-     print("Kiitos ja hei!")
-     break
+        print("Kiitos ja hei!")
+        break
