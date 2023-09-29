@@ -6,7 +6,7 @@ Ohjelmassa voit heitellä erisuuruisia noppia ja saada satunnaisen tuloksen.
   Vaihtoehtoina on d4, d6, d8, d10, d12 tai d20 nopat.
 
 Noppia voi käyttää mihin tarkoitukseen käyttäjä vain tahtoo, kuten vaikka jossain pelissä.
-  Ohjelma on tehty harjoitukseksi ja hyviksi, eikä sen ole tarkoitus olla kaupallinen tai osa mitään maksullista.
+  Ohjelma on tehty harjoitukseksi ja huvinvuoksi, eikä sen ole tarkoitus olla kaupallinen tai osa mitään maksullista.
 
   Ohjelma alkaa sillä että käyttäjä syöttää komennon, mitä noppaa heitetään. Valinnan mukaan ohjelma heittää oikean kokoista noppaa.
     Ohjelma näyttää heiton tuloksen ja kysyy sen päätteeksi heitetäänkö uudelleen, jos vastaus on kyllä, ohjelma jatkuu.
